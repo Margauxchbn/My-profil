@@ -1,0 +1,77 @@
+body{
+ background: rgb(113,139,167);
+ color:rgb(70,64,62);
+ font-family: american typewriter;
+ font-size: 17px;
+ }    
+
+h1 { 
+ color: rgb(30, 36, 40);
+ font-size: 24px;
+ } 
+
+div { width: 400px
+	background: rgb(166,178,181);
+	border:5px ;
+	margin: 40px;
+
+} 
+
+
+.boxsquare{ 
+	background: rgb(14,29,58);
+	padding: 50px;
+	box-shadow: 0px 10px 30px;
+	margin: 40px auto
+}
+
+
+.container{
+	width: 500px;
+	margin: 60px auto;
+}
+
+.card-creme{
+	background: rgb(242,232,212);
+	padding: 50px;
+	box-shadow: 0px 10px 30px;
+}
+
+.img-circle{
+	border-radius:50%;
+}
+
+.buttons{
+	background: rgb(242,232,212);
+	padding: 60px;
+	box-shadow: 0px 10px 30px;
+	border-radius: 10px;
+}
+
+.box-container{
+	background: rgb(242,232,212);
+	padding: 30px;
+	box-shadow: 0px 10px 30px;
+
+}
+.boxround{
+	background-color:rgb(242,232,212) ;
+	color:  black;
+	padding:20px 20px ;
+	border-radius: 30px;
+	box-shadow: 0px 10px 30px;
+}
+
+.boxround{ 
+	background: rgb(14,29,58);
+	padding: 50px;
+	box-shadow: 0px 10px 30px;
+	margin: 40px auto
+}
+
+.box {
+	background: rgb(242,232,212);
+	padding: 10px;
+
+}
+
